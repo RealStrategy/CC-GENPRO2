@@ -1,4 +1,4 @@
-# CC-GENPRO V2.0
+# CC-GENPRO V2.0 (Beta)
 # Dev: @RealStrategy
 # Date: 29/09/2022
 # Telegram: https://t.me/RealHackRWAM
