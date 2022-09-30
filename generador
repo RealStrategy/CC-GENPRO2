@@ -1,0 +1,10 @@
+#!bin/bash
+
+echo -ne "\e[1;36mINGRESA BIN: ";
+read BIN;
+python2 cc-genpro.py -b $BIN -u 40 -d -c
+echo ""
+echo "Presionar enter para volver al menu"
+echo ""
+read foo
+python2 cc-genpro2.0.py

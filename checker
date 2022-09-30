@@ -1,0 +1,12 @@
+#!/usr/bin/env python
+
+from urllib2 import *
+from platform import system
+import sys
+import json
+bn = raw_input('\033[92mINGRESA TU BIN: \033[93m')
+whois = "https://lookup.binlist.net/" + bn
+dev = urlopen(whois).read()
+print dev
+raw_input("Presiona enter para continuar")
+os.system("python2 cc-genpro2.0.py")

@@ -1,0 +1,8 @@
+#!bin/bash
+echo "================================================="
+echo -e "\033[1;31m PEGUE AQUI LOS BINS A GUARDAR\033[0m"
+echo -e "\033[1;33m Para salir y guardar digite CTRL + D \033[0m"
+echo "================================================="
+#Opcion guardado
+cat >>binlist.txt
+
