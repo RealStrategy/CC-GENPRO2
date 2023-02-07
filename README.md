@@ -22,8 +22,8 @@ TUTORIAL TERMUX
 
 - https://todoreal.com/como-instalar-el-generador-cc-genpro2-0-en-termux/
 
-DEMO WEB - [Open Here](https://cc-genpro.com)
-![alt text](https://raw.githubusercontent.com/RealStrategy/realstrategy.github.io/main/CC-GENPROV1/ccgenpro.png)
+WEB V3.0- [Open Here](https://cc-genpro.com)
+
 
 ---
 
